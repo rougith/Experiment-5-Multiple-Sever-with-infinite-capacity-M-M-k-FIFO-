@@ -27,7 +27,7 @@ Name:Rougith D
 Reg No:25017014
 slot no:3P1-1
 ```
-
+```
 import math 
  
 arr_time_input = '' 
@@ -69,6 +69,7 @@ if(rho<1):
 else: 
     print("Warning! Objects overflow will happen in the conveyor") 
 print("-----------------------------------------------------")
+```
 https://colab.research.google.com/drive/1bybOr-MX2r7gcoNB6j9b2w7xNlqklEqp?usp=sharing
 # Output
 
